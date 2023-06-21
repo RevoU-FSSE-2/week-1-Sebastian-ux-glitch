@@ -1,1 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/l9v8sNrv)
+
+Проект Себастиана
+
+
+О себе
+## 🚀 О себе
+Я - будущий full stack разработчик...
+
+
+## 🔗Ссылка
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-marcel-sebastian-031314228//)
+
+
+![ логотип](https://logos.textgiraffe.com/logos/logo-name/Sebastian-designstyle-summer-m.png)
+
