@@ -1,37 +1,21 @@
-<!DOCTYPE html>
- <html lang="rus">
-<head>
-      <title>Проект Себастиана</title>
-      <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div class="main">
-     <div class="navbar">
-     <div class="icon">
-        <h2 class="logo">Себастиан</h2>
-            </div>
+ЭТО ПРОЕКТ СЕБАСТЬЯНА
+## Скриншоты
 
-        <div class="menu">
-            <ul>
-               <li><a href="#">ПРИВЕТ</a></li>
-               <li><a href="#">О САЙТЕ </a></li> 
-               <li><a href="#">КОНТАКТ</a></li> 
-               <li><a href="#">ГЛАВНАЯ СТРАНИЦА</a></li> 
-               <li><a href="#">МОЙ ПРОЕКТ</a></li>  
-            </ul>
-        </div>
+![App Screenshot](Screenshot%202023-06-21%20230120.png)
 
-        <div class="search">
-            <input type="srch"input type="search" name="" placeholder="Введите в текст">
-        <a href="#">   <button class="btn">search</button></a>
-        </div>
-     </div>
-     <div class="content" >
-        <h1>МОЙ ПРОФИЛЬ & <br><span>МОЙ ПРОЕКТ</span></h1>
-    <p class="par">Привет, меня зовут Себастьян, <br>
-        я ваш будущий инженер-программист.</p>
-    
-        <button class="cn"><a href = "#"> ПРИСОЕДИНЯЙТЕСЬ К НАМ</a></button></div>
-    </div>
-    </body>
-</html>
+
+## Документация
+
+[Documentation](https://revou02-week1-assigmentsebastianviper.netlify.app)
+
+
+
+## Авторы
+
+- [@Себастиан Ян Марсель](https://github.com/Sebastian-ux-glitch/Sebastian-ux-glitch)
+
+
+## Извлеченные уроки
+
+Чему вы научились во время создания этого проекта? С какими трудностями вы столкнулись и как вы их преодолели?
+
